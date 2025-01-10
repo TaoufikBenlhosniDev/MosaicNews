@@ -25,16 +25,11 @@ This project is a simple **Multi-Resource News Aggregator** that collects and di
 ---
 
 ## File Structure
-``mermaid
-graph TD;
-    A[project-folder] --> B[index.html]
-    A --> C[style.css]
-    A --> D[script.js]
-    A --> E[images]
-    E --> F[news.png]
-    E --> F[screenshot.png]
-    A --> G[README.md]
-    ``
+- **index.html**: Contains the structure of the webpage and HTML elements.
+- **style.css**: Styles the webpage (colors, layout, typography).
+- **script.js**: Handles interactivity, like fetching and displaying news.
+- **images/**: Folder containing images used for the website (e.g., `news.png`, `screensho.png`).
+- **README.md**: Contains information about the project, installation, and usage.
 
 
 ---
