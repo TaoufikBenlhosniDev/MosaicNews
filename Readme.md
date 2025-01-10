@@ -25,7 +25,16 @@ This project is a simple **Multi-Resource News Aggregator** that collects and di
 ---
 
 ## File Structure
-project-folder/ ├── index.html # Main HTML file ├── style.css # CSS file for styling ├── script.js # JavaScript file for interactivity ├── # news.png Image Folder   └── README.md # Project documentation
+``mermaid
+graph TD;
+    A[project-folder] --> B[index.html]
+    A --> C[style.css]
+    A --> D[script.js]
+    A --> E[images]
+    E --> F[news.png]
+    E --> F[screenshot.png]
+    A --> G[README.md]
+    ``
 
 
 ---
