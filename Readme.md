@@ -34,8 +34,8 @@ MOSAICNEWS/ # project_Folder <br>
 ├── script.js # JavaScript file for interactivity <br>
 ├── README.md # Project documentation <br>
 └── img/ # Image_Folder <br>
-&nbsp;├── news.png  # icon image <br>
-&nbsp;└── screenshot.gif # animated website Demo <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── news.png  # icon image <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── screenshot.gif # animated website Demo <br>
 
 
 ---
