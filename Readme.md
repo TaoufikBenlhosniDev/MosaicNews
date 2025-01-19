@@ -28,14 +28,14 @@ This project is a simple **Multi-Resource News Aggregator** that collects and di
 ---
 
 ## File Structure
-MOSAICNEWS/ # project_Folder
-├── index.html # Main HTML file 
-├── style.css # CSS file for styling 
-├── script.js # JavaScript file for interactivity 
-├── README.md # Project documentation
-└── img/ # Image_Folder
-    ├── news.png  # icon image
-    └── screenshot.gif # animated website Demo
+MOSAICNEWS/ # project_Folder <br>
+├── index.html # Main HTML file <br>
+├── style.css # CSS file for styling <br>
+├── script.js # JavaScript file for interactivity <br>
+├── README.md # Project documentation <br>
+└── img/ # Image_Folder <br>
+    ├── news.png  # icon image <br>
+    └── screenshot.gif # animated website Demo <br>
 
 
 ---
